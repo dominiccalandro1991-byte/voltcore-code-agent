@@ -1,0 +1,30 @@
+{
+  "repo": "dominiccalandro1991-byte/voltcore-code-agent",
+  "incomplete": false,
+  "missing_dependencies": [],
+  "required_build_specs": [
+    "voltcore-heartbeat workflow"
+  ],
+  "file_count": 19,
+  "root_entries": [
+    ".gitignore",
+    ".vercelignore",
+    "AGENTS.md",
+    "CLAUDE.md",
+    "README.md",
+    "agent",
+    "app",
+    "components.json",
+    "components",
+    "css.d.ts",
+    "lib",
+    "next-env.d.ts",
+    "next.config.ts",
+    "package.json",
+    "pnpm-lock.yaml",
+    "pnpm-workspace.yaml",
+    "postcss.config.mjs",
+    "tsconfig.json",
+    "vercel.json"
+  ]
+}
